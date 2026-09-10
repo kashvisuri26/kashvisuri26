@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Kashvi Suri!
+<h1 align="center">✨ Hi, I'm Kashvi Suri! 👋</h1>
 
-<!--
-**kashvisuri26/kashvisuri26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 💻 B.Tech CSE Student | 🚀 Future Developer </h3>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+AI%2FML+%F0%9F%A4%96;Building+ideas+into+reality+%F0%9F%9A%80" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
+💻 B.Tech CSE Student
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+
+
 - ⚡ Fun fact: ...
 -->
