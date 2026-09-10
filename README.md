@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Kashvi Suri!
 <h1 align="center">✨ Hi, I'm Kashvi Suri! 👋</h1>
 
 <h3 align="center"> 💻 B.Tech CSE Student | 🚀 Future Developer </h3>
@@ -10,8 +9,11 @@
 💻 B.Tech CSE Student
 
 🤖 Exploring Artificial Intelligence & Machine Learning
+🐍 Python | C | C++ | Data Structures | HTML
 
 
+💻 Creative coder
 
-- ⚡ Fun fact: ...
--->
+🚀 Building projects, learning new technologies, and turning ideas into real-world solutions.
+
+💫**“From curiosity to creation, one commit at a time.”**
